@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea8304&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+my+name+is+Thiago+Lima;I'm+backend+developer.+Welcome:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea8304&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+my+name+is+Thiago+Lima;I'm+backend+developer.+Welcome:%29)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thiagoa-Lima&bg_color=141414&color=d8d8d8&line=ea8304&point=d8d8d8&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
