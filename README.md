@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thiagoa-Lima&bg_color=141414&color=d8d8d8&line=ea8304&point=d8d8d8&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
