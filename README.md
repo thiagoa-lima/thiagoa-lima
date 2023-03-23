@@ -5,8 +5,8 @@
 
 
 <div align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thiagoa-lima&show_icons=true&theme=dark"/>
-    <img height="165em" src="https://streak-stats.demolab.com/?user=thiagoa-lima&theme=dark" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagoa-lima&show_icons=true&theme=dark"/>
+    <img height="170em" src="https://streak-stats.demolab.com/?user=thiagoa-lima&theme=dark" />
 </div>
 
 <h2 align="left">My Skills</h2>
